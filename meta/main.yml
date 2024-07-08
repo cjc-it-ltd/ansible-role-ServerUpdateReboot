@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  role_name: server-update-reboot
+  role_name: server_update_reboot
   author: Ryan Daniels
   description: Role to update packages on linux and optionally reboot
   license: MIT

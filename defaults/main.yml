@@ -1,4 +1,5 @@
 ---
+proxy_env: []
 debug_enabled_default: false
 update_default: true
 reboot_default: true
